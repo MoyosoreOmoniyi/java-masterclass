@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise10EqualityPrinter/CodingExercise10EqualityPrinter.iml" filepath="$PROJECT_DIR$/CodingExercise10EqualityPrinter/CodingExercise10EqualityPrinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise11PlayingCat/CodingExercise11PlayingCat.iml" filepath="$PROJECT_DIR$/CodingExercise11PlayingCat/CodingExercise11PlayingCat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise12NumberInWord/CodingExercise12NumberInWord.iml" filepath="$PROJECT_DIR$/CodingExercise12NumberInWord/CodingExercise12NumberInWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise13NumberOfDaysInMonth/CodingExercise13NumberOfDaysInMonth.iml" filepath="$PROJECT_DIR$/CodingExercise13NumberOfDaysInMonth/CodingExercise13NumberOfDaysInMonth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise14SumOdd/CodingExercise14SumOdd.iml" filepath="$PROJECT_DIR$/CodingExercise14SumOdd/CodingExercise14SumOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise15NumberPalindrome/CodingExercise15NumberPalindrome.iml" filepath="$PROJECT_DIR$/CodingExercise15NumberPalindrome/CodingExercise15NumberPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise16FirstAndLastDigitSum/CodingExercise16FirstAndLastDigitSum.iml" filepath="$PROJECT_DIR$/CodingExercise16FirstAndLastDigitSum/CodingExercise16FirstAndLastDigitSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise17EvenDigitSum/CodingExercise17EvenDigitSum.iml" filepath="$PROJECT_DIR$/CodingExercise17EvenDigitSum/CodingExercise17EvenDigitSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise18SharedDigit/CodingExercise18SharedDigit.iml" filepath="$PROJECT_DIR$/CodingExercise18SharedDigit/CodingExercise18SharedDigit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise19LastDigitChecker/CodingExercise19LastDigitChecker.iml" filepath="$PROJECT_DIR$/CodingExercise19LastDigitChecker/CodingExercise19LastDigitChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise1SpeedConverter/CodingExercise1SpeedConverter.iml" filepath="$PROJECT_DIR$/CodingExercise1SpeedConverter/CodingExercise1SpeedConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise1SpeedConverterSolution/CodingExercise1SpeedConverterSolution.iml" filepath="$PROJECT_DIR$/CodingExercise1SpeedConverterSolution/CodingExercise1SpeedConverterSolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise20GreatestCommonDivisor/CodingExercise20GreatestCommonDivisor.iml" filepath="$PROJECT_DIR$/CodingExercise20GreatestCommonDivisor/CodingExercise20GreatestCommonDivisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise21AllFactors/CodingExercise21AllFactors.iml" filepath="$PROJECT_DIR$/CodingExercise21AllFactors/CodingExercise21AllFactors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise22PerfectNumber/CodingExercise22PerfectNumber.iml" filepath="$PROJECT_DIR$/CodingExercise22PerfectNumber/CodingExercise22PerfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise23NumberToWords/CodingExercise23NumberToWords.iml" filepath="$PROJECT_DIR$/CodingExercise23NumberToWords/CodingExercise23NumberToWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise24FlourPackProblem/CodingExercise24FlourPackProblem.iml" filepath="$PROJECT_DIR$/CodingExercise24FlourPackProblem/CodingExercise24FlourPackProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise25LargestPrime/CodingExercise25LargestPrime.iml" filepath="$PROJECT_DIR$/CodingExercise25LargestPrime/CodingExercise25LargestPrime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise26DiagonalStar/CodingExercise26DiagonalStar.iml" filepath="$PROJECT_DIR$/CodingExercise26DiagonalStar/CodingExercise26DiagonalStar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise27InputCalculator/CodingExercise27InputCalculator.iml" filepath="$PROJECT_DIR$/CodingExercise27InputCalculator/CodingExercise27InputCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise28PaintJob/CodingExercise28PaintJob.iml" filepath="$PROJECT_DIR$/CodingExercise28PaintJob/CodingExercise28PaintJob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise29SumCalculator/CodingExercise29SumCalculator.iml" filepath="$PROJECT_DIR$/CodingExercise29SumCalculator/CodingExercise29SumCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise2MegabytesConverter/CodingExercise2MegabytesConverter.iml" filepath="$PROJECT_DIR$/CodingExercise2MegabytesConverter/CodingExercise2MegabytesConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise31WallArea/CodingExercise31WallArea.iml" filepath="$PROJECT_DIR$/CodingExercise31WallArea/CodingExercise31WallArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise32Point/CodingExercise32Point.iml" filepath="$PROJECT_DIR$/CodingExercise32Point/CodingExercise32Point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise33CarpetCostCalculator/CodingExercise33CarpetCostCalculator.iml" filepath="$PROJECT_DIR$/CodingExercise33CarpetCostCalculator/CodingExercise33CarpetCostCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise34ComplexOperations/CodingExercise34ComplexOperations.iml" filepath="$PROJECT_DIR$/CodingExercise34ComplexOperations/CodingExercise34ComplexOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise35CylinderOOP1/CodingExercise35CylinderOOP1.iml" filepath="$PROJECT_DIR$/CodingExercise35CylinderOOP1/CodingExercise35CylinderOOP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise36PoolAreaOOP1/CodingExercise36PoolAreaOOP1.iml" filepath="$PROJECT_DIR$/CodingExercise36PoolAreaOOP1/CodingExercise36PoolAreaOOP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise3BarkingDog/CodingExercise3BarkingDog.iml" filepath="$PROJECT_DIR$/CodingExercise3BarkingDog/CodingExercise3BarkingDog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise4LeapYearCalculator/CodingExercise4LeapYearCalculator.iml" filepath="$PROJECT_DIR$/CodingExercise4LeapYearCalculator/CodingExercise4LeapYearCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise5DecimalComparator/CodingExercise5DecimalComparator.iml" filepath="$PROJECT_DIR$/CodingExercise5DecimalComparator/CodingExercise5DecimalComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise6EqualSumChecker/CodingExercise6EqualSumChecker.iml" filepath="$PROJECT_DIR$/CodingExercise6EqualSumChecker/CodingExercise6EqualSumChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise7TeenNumberChecker/CodingExercise7TeenNumberChecker.iml" filepath="$PROJECT_DIR$/CodingExercise7TeenNumberChecker/CodingExercise7TeenNumberChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise8AreaCalculator/CodingExercise8AreaCalculator.iml" filepath="$PROJECT_DIR$/CodingExercise8AreaCalculator/CodingExercise8AreaCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercise9MinutesToYearsAndDaysCalculator/CodingExercise9MinutesToYearsAndDaysCalculator.iml" filepath="$PROJECT_DIR$/CodingExercise9MinutesToYearsAndDaysCalculator/CodingExercise9MinutesToYearsAndDaysCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExerecise30Person/CodingExerecise30Person.iml" filepath="$PROJECT_DIR$/CodingExerecise30Person/CodingExerecise30Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-masterclass.iml" filepath="$PROJECT_DIR$/.idea/java-masterclass.iml" />
+    </modules>
+  </component>
+</project>
