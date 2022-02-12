@@ -1,6 +1,6 @@
 public class SpeedConverter { //Created a class
 
-    public static long toMilesPerHour (double kilometersPerHour) { // I created a method with a parameter of type double to return a value of type long.
+    public static long toMilesPerHour (double kilometersPerHour) { 
         if (kilometersPerHour < 0) {
             return -1;
         }
@@ -11,9 +11,9 @@ public class SpeedConverter { //Created a class
 
     }
 
-    public static void printConversion (double kilometersPerHour) { // I created another method with a parameter of type double to return nothing.
+    public static void printConversion (double kilometersPerHour) { 
 
-       long milesPerHour = toMilesPerHour(kilometersPerHour); // I called the method that I want to use for my calculation and saved it in a variable of type long(because the method above has a type long output).
+       long milesPerHour = toMilesPerHour(kilometersPerHour); 
         if (kilometersPerHour >= 0) {
             System.out.println( kilometersPerHour + " km/h = " + milesPerHour + " mi/h");
         }
