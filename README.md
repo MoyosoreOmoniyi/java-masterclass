@@ -1,2 +1,2 @@
 # java-masterclass
-My solutions to exercises and challenges from the course - Java Programming Masterclass covering Java 11
+My solutions to exercises and challenges from the Udemy course - Java Programming Masterclass covering Java 11
